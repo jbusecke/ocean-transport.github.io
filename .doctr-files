@@ -1,13 +1,16 @@
+./README.html
 ./_images/Moore_Foundation_Logo.jpg
 ./_images/acc.jpg
 ./_images/bailey.jpg
 ./_images/channel.jpg
+./_images/charles.jpg
 ./_images/dask.png
 ./_images/delaunay.png
 ./_images/intro_po.jpg
 ./_images/ryan.jpg
 ./_images/talleyfig.jpg
 ./_images/vortex_rollup.png
+./_sources/README.md.txt
 ./_sources/cds_lab.md.txt
 ./_sources/guide.md.txt
 ./_sources/index.rst.txt
@@ -39,6 +42,7 @@
 ./_static/otg_logo_blue.svg
 ./_static/otg_logo_v1.png
 ./_static/photos/bailey.jpg
+./_static/photos/charles.jpg
 ./_static/photos/ryan.jpg
 ./_static/plus.png
 ./_static/pygments.css

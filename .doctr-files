@@ -1,13 +1,13 @@
 ./README.html
 ./_images/Moore_Foundation_Logo.jpg
 ./_images/acc.jpg
-./_images/bailey.jpg
 ./_images/channel.jpg
 ./_images/charles.jpg
 ./_images/dask.png
 ./_images/delaunay.png
 ./_images/intro_po.jpg
 ./_images/ryan.jpg
+./_images/shanice.jpeg
 ./_images/spencer.jpg
 ./_images/talleyfig.jpg
 ./_images/vortex_rollup.png
@@ -45,6 +45,7 @@
 ./_static/photos/bailey.jpg
 ./_static/photos/charles.jpg
 ./_static/photos/ryan.jpg
+./_static/photos/shanice.jpeg
 ./_static/photos/spencer.jpg
 ./_static/plus.png
 ./_static/pygments.css
